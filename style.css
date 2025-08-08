@@ -1,6 +1,12 @@
 body{
     color: white;
     backgfround-color: black;
-    front-family: "Roboto Condensed",
-    sans-serif;
+    font-family: "Roboto Condensed", sans-serif;
+    }
+    .chamada {
+        background: rgb(62,197,89);
+        padding-bottom: 80px;
+        padding-top: 80px;
+        display: flex;
+        justify content: center;
     }
